@@ -21,9 +21,9 @@ My log data includes the following five logs -
 
 1. Gamma Ray Log
 2. Neutron Porosity Log
-3. Sonic Log
-4. Deep Resistivity Log
-5. Bulk Density Log
+3. Density Porosity
+4. Acaustic Transit Time Log
+5. Deep Induction Resistivity Log Data
 
 probably in the las files abbreviations are generally used, 
 so we can refer to 
